@@ -1,2 +1,4 @@
-# apline-curl-xmlint
+# alpine-curl-xmlint
+
+Simple docker with latest alpine, curl, and xmllint. Pushed to https://hub.docker.com/repository/docker/mihxil/alpine-curl-xmllint
 
